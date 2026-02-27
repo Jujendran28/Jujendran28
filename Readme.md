@@ -52,8 +52,8 @@ _Documenting my journey through algorithmic challenges and coding puzzles._
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jujendran28&show_icons=true&theme=radical&hide_title=true&hide_rank=true" alt="Jujendran's GitHub stats" height="140"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jujendran28&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="140"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jujendran-R&show_icons=true&theme=radical&hide_title=true&hide_rank=true" alt="Jujendran's GitHub stats" height="140"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jujendran-R&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="140"/>
 </div>
 
 ---
@@ -62,7 +62,7 @@ _Documenting my journey through algorithmic challenges and coding puzzles._
 
 <div align="center">
 
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Jujendran28&show_icons=true&theme=radical&v=1)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Jujendran-R&show_icons=true&theme=radical&v=1)
 
 </div>
 
